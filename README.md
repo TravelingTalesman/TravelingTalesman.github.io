@@ -5,17 +5,14 @@ Excel<br>
 Tableau<br>
 
 # Projects
-[Project Foo]('')
-:---------------------:|
-**Increased X by 70%**
-This row should contain text
+[Project Foo]('')<br>
+**Increased X by 70%**<br>
+This row should contain text<br>
 
-[Project Bar]('')
-:---------------------:|
-**Increased Y by 80%**
-that describes the projects
+[Project Bar]('')<br>
+**Increased Y by 80%**<br>
+that describes the projects<br>
 
-[Project Baz]('')
-:---------------------:|
-**Saved Z by 95%**
-in greater depth for the reader
+[Project Baz]('')<br>
+**Saved Z by 95%**<br>
+in greater depth for the reader<br>
