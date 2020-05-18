@@ -1,1 +1,7 @@
+show_downloads: true
+
 theme: jekyll-theme-cayman
+
+github:
+  github_portfolio: https://github.com/TravelingTalesman
+  tableau_portfolio: https://public.tableau.com/en-us/s/gallery
