@@ -1,8 +1,5 @@
 # Skills
-## Python<br>
-## SQL<br>
-## Excel<br>
-## Tableau<br>
+## Python, SQL, Excel, Tableau<br>
 
 # Projects
 ## [Project Foo]('')<br>
