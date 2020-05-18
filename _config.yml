@@ -1,6 +1,6 @@
 show_downloads: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 github:
   github_portfolio: https://github.com/TravelingTalesman
