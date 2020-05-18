@@ -1,7 +1,8 @@
 # Skills
-SQL | Python | Excel | Tableau
-:-:|:-:|:-:|:-:
-Database Engineer | Software Developer | Data Analyst | Dashboard Designer
+Python<br>
+SQL<br>
+Excel<br>
+Tableau<br>
 
 # Projects
 [Project Foo](https://travelingtalesman.github.io) | [Project Bar](https://travelingtalesman.github.io) | [Project Baz](https://travelingtalesman.github.io)
