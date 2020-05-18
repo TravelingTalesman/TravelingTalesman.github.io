@@ -1,8 +1,11 @@
 # Skills
-Python<br>
-SQL<br>
-Excel<br>
-Tableau<br>
+Python
+
+SQL
+
+Excel
+
+Tableau
 
 # Projects
 [Project Foo]('') - _Increased X by 70%_<br>
