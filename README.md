@@ -5,7 +5,17 @@ Excel<br>
 Tableau<br>
 
 # Projects
-[Project Foo](https://travelingtalesman.github.io) | [Project Bar](https://travelingtalesman.github.io) | [Project Baz](https://travelingtalesman.github.io)
-:-:|:-:|:-:
-**Increased X by 70%** | **Increased Y by 80%** | **Saved Z by 95%**
-This row should contain text | that describes the projects | in greater depth for the reader
+[Project Foo]('')
+:---------------------:
+**Increased X by 70%**
+This row should contain text
+
+[Project Bar]('')
+:---------------------:
+**Increased Y by 80%**
+that describes the projects
+
+[Project Baz]('')
+:---------------------:
+**Saved Z by 95%**
+in greater depth for the reader
