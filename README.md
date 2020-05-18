@@ -7,7 +7,7 @@ Python, SQL, Excel, Tableau<br>
 This row should contain text<br>
 
 ## [Project Bar]('')<br>
-## _Increased Y by 80%_<br>
+### _Increased Y by 80%_<br>
 That describes the projects<br>
 
 ## [Project Baz]('')<br>
